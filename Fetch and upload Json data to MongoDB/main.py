@@ -1,9 +1,9 @@
 
 """
 Requirements :
-    1. Fetch a Json data from a URL/Enpoint, which should need to be live and update on each refresh.
-    2. Fetched Json data should have to upload to your MongoDB.
-    3. Upload it for about 3hrs which is around 10800 secs. # (3 * 60 * 60 ) = 10800
+   1. Fetch JSON data from a live URL/endpoint that updates with each refresh.
+   2. Upload the fetched JSON data to your MongoDB.
+   3. Maintain the upload for approximately 3 hours, which is around 10,800 seconds. # (3 * 60 * 60) = 10,800
     
 """
 
